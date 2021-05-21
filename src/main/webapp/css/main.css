@@ -1,0 +1,12 @@
+.navbar {
+	background-color: orange !important;
+}
+
+.card-header {
+	background-color: blue;
+	color: white;
+}
+
+.form-group textarea {
+	width: 100%;
+}
